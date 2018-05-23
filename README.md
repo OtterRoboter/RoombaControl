@@ -3,19 +3,19 @@ Roomba Control via Bluetooth and Processing for Android
 
 ## Software-Setup:
 
-_Processing  Version 3.3.1
-_Android Mode (older version than 4 worked)
-_Android SDK 23
-_Important: Add Bluetooth Permissions & Location Permissions in Processing
+_Processing  Version 3.3.1   
+_Android Mode (older version than 4 worked)   
+_Android SDK 23   
+_Important: Add Bluetooth Permissions & Location Permissions in Processing   
 Google now requires ACCESS_FINE_LOCTION or ACCESS_COARCE_LOCATION permissions 
 to be able to scan for Bluetooth or Wifi devices. 
 
 
 ## Hardware Setup:
 
-_Roomba 651
-_Arduino Pro Mini 5V
-_Bluetooth Modul HC-06
+_Roomba 651   
+_Arduino Pro Mini 5V   
+_Bluetooth Modul HC-06   
 
 ## Important links: 
 
