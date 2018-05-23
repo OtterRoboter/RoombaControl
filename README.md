@@ -5,7 +5,7 @@ Roomba Control via Bluetooth and Processing for Android
 
 _Processing  Version 3.3.1   
 _Android Mode (older version than 4 worked)   
-_Android SDK 23   
+_Android SDK: API 6.0 (23)   
 _Important: Add Bluetooth Permissions & Location Permissions in Processing   
 Google now requires ACCESS_FINE_LOCTION or ACCESS_COARCE_LOCATION permissions 
 to be able to scan for Bluetooth or Wifi devices. 
