@@ -19,11 +19,11 @@ _Bluetooth Modul HC-06
 
 ## Important links: 
 
-_Roomba Open Interface Specification:
+_Roomba Open Interface Specification:   
 http://anrg.usc.edu/ee579/spring2016/Roomba/iRobot_Roomba_600_Open_Interface_Spec.pdf
 
-_Roomba Create Arduino Tutorial:
+_Roomba Create Arduino Tutorial:   
 https://www.irobotweb.com/-/media/MainSite/PDFs/About/STEM/Create/Arduino_Tutorial.pdf?la=en
 
-_Roomba Create 2 to 5V Logic:
+_Roomba Create 2 to 5V Logic:   
 http://www.irobot.com/~/media/MainSite/PDFs/About/STEM/Create/Create_2_to_5V_Logic.pdf
